@@ -1,4 +1,4 @@
-module github.com/paketo-buildpacks/procfile/v5
+module github.com/initializ/procfile/v5
 
 go 1.20
 
