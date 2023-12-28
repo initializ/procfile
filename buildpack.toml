@@ -16,8 +16,8 @@ api = "0.7"
 
 [buildpack]
   description = "A buildpack for translating a Procfile into Process Types"
-  homepage = "https://github.com/paketo-buildpacks/procfile"
-  id = "paketo-buildpacks/procfile"
+  homepage = "https://github.com/initializ/procfile"
+  id = "initializ/procfile"
   keywords = ["procfile", "command"]
   name = "Paketo Buildpack for Procfile"
   sbom-formats = ["application/vnd.cyclonedx+json", "application/vnd.syft+json"]
@@ -25,7 +25,7 @@ api = "0.7"
 
   [[buildpack.licenses]]
     type = "Apache-2.0"
-    uri = "https://github.com/paketo-buildpacks/procfile/blob/main/LICENSE"
+    uri = "https://github.com/initializ/procfile/blob/main/LICENSE"
 
 [metadata]
   include-files = ["LICENSE", "NOTICE", "README.md", "bin/build", "bin/detect", "bin/main", "bin/build.exe", "bin/detect.exe", "bin/main.exe", "buildpack.toml"]

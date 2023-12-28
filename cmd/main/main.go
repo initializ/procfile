@@ -22,7 +22,7 @@ import (
 	"github.com/paketo-buildpacks/libpak"
 	"github.com/paketo-buildpacks/libpak/bard"
 
-	"github.com/paketo-buildpacks/procfile/v5/procfile"
+	"github.com/initializ/procfile/v5/procfile"
 )
 
 func main() {
